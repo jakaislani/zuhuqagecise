@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jakaislani.github.io/zuhuqagecise/sitemap.xml
